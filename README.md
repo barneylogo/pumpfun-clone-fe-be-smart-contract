@@ -160,7 +160,6 @@ Need help, have questions, or want to collaborate? Reach out!
 
 - **Telegram**: [@junwithu](https://t.me/junwithu)  
 
-If you find this project useful, feel free to give it a ⭐ on GitHub.  
 
 
 
